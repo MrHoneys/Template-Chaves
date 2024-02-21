@@ -350,6 +350,7 @@
   }
 } .u-section-3 {
   background-image: url("images/0a0a0a1.png");
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-sheet-1 {
@@ -451,7 +452,7 @@
 }
 
 .u-section-4 .u-text-12 {
-  margin: -29px 88px 60px auto;
+  margin: -29px 88px 35px auto;
 }
 
 @media (max-width: 1199px) {
@@ -597,7 +598,7 @@
 
   .u-section-4 .u-text-12 {
     margin-top: -22px;
-    margin-bottom: 60px;
+    margin-bottom: 35px;
   }
 }
 
